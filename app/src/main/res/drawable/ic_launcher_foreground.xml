@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group android:scaleX="0.4"
+        android:scaleY="0.4"
+        android:translateX="32.4"
+        android:translateY="32.4">
+        <!-- Chart/quota icon -->
+        <path
+            android:fillColor="#89B4FA"
+            android:pathData="M10,80 L10,30 L30,30 L30,80 Z" />
+        <path
+            android:fillColor="#A6E3A1"
+            android:pathData="M40,80 L40,15 L60,15 L60,80 Z" />
+        <path
+            android:fillColor="#F9E2AF"
+            android:pathData="M70,80 L70,45 L90,45 L90,80 Z" />
+        <!-- Base line -->
+        <path
+            android:fillColor="#6C7086"
+            android:pathData="M5,80 L95,80 L95,85 L5,85 Z" />
+    </group>
+</vector>

@@ -1,0 +1,17 @@
+{
+  "cursorModels": {
+    "used": 1500,
+    "limit": null,
+    "unlimited": true
+  },
+  "otherModels": {
+    "usedDollars": 35.00,
+    "limitDollars": 70.00
+  },
+  "onDemand": {
+    "enabled": false
+  },
+  "periodStart": "2026-09-15T00:00:00Z",
+  "periodEnd": "2026-10-15T00:00:00Z",
+  "planType": "Pro+"
+}

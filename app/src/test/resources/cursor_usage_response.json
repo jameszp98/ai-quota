@@ -1,0 +1,20 @@
+{
+  "cursorModels": {
+    "used": 150,
+    "limit": 500,
+    "unlimited": false
+  },
+  "otherModels": {
+    "usedDollars": 7.50,
+    "limitDollars": 20.00
+  },
+  "onDemand": {
+    "enabled": true,
+    "spentDollars": 2.50,
+    "softLimitDollars": 50.00,
+    "hardLimitDollars": 100.00
+  },
+  "periodStart": "2026-09-01T00:00:00Z",
+  "periodEnd": "2026-10-01T00:00:00Z",
+  "planType": "Pro"
+}
